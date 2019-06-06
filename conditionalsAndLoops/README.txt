@@ -51,4 +51,4 @@ PART IVb - RandomWalkers.java
 % java RandomWalkers N T
   > N, T valid positive integer values
 
-Running this program emulates T random walker taking N steps, returning the mean squared distance.
+Running this program emulates T random walkers taking N steps, returning the mean squared distance.
