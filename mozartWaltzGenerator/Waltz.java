@@ -48,7 +48,7 @@ public class Waltz {
       catch (InterruptedException e) { }
     }
 
-    System.out.println("\n");
+    System.out.println("");
   }
 
   //recreating the tables from the assignment as arrays
