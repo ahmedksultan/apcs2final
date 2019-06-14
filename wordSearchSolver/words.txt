@@ -11,24 +11,28 @@ data
 double
 exception
 forloop
+insertionsort
+integer
+java
+map
+mergesort
+method
 
-JAVA
+
 PUBLIC
 PRIVATE
 STATIC
 OBJECT
 
 WHILELOOP
-INT
 STRING
-METHOD
+
 RANDOM
 
 SELECTIONSORT
-INSERTIONSORT
-MERGESORT
+
 NODE
-MAP
+
 TREE
 TERMINAL
 
