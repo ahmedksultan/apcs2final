@@ -5,4 +5,8 @@ conditionalsAndLoops: 1
 
 mozartWaltzGenerator: 3
 
-total: 4
+hTree: 3
+
+sierpinskiTriangle: 3
+
+total: 10
